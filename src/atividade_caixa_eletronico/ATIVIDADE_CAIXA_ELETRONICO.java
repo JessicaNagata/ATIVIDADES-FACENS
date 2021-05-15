@@ -187,7 +187,6 @@ public class ATIVIDADE_CAIXA_ELETRONICO {
 
                             if (extratos.isEmpty()) {
                                 System.out.println("SEM MOVIMENTAÇÕES");
-                                System.out.println("SALDO ATUAL: R$ " + saldo);
                             }
                             
                             System.out.println();
